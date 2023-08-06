@@ -10,7 +10,7 @@
 @@||nessus.org^$important
 @@||bats.video.yahoo.com^$important
 @@||amap.com^$important
-@@|95516.com^$important
+@@||95516.com^$important
 @@||map.baidu.com^$important
 @@||m.taobao.com^$important
 @@||bats.video.yahoo.com^$important

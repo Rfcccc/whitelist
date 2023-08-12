@@ -18,3 +18,4 @@
 @@||jpush.cn^$important
 @@||jiguang.cn^$important
 @@||sohu.com^$important
+@@||player.gliacloud.com^$important

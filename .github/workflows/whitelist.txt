@@ -19,3 +19,4 @@
 @@||jiguang.cn^$important
 @@||sohu.com^$important
 @@||player.gliacloud.com^$important
+@@||dnslog.cn^$important

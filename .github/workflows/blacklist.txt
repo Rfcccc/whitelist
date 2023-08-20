@@ -2,3 +2,4 @@
 ||donate.ssl.xmrig.com^
 ||privatbank.ua^
 ||ukc.gov.ua^
+||liqpay.ua^

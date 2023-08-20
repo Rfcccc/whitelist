@@ -1,5 +1,5 @@
 ||donate.v2.xmrig.com^
 ||donate.ssl.xmrig.com^
 ||privatbank.ua^
-||ukc.gov.ua^
+||gov.ua^
 ||liqpay.ua^

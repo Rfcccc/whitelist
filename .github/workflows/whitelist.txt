@@ -21,3 +21,4 @@
 @@||player.gliacloud.com^$important
 @@||dnslog.cn^$important
 @@||ingest.sentry.io^$important
+@@||offseclabs.com^$important

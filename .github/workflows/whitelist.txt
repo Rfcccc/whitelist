@@ -20,3 +20,4 @@
 @@||sohu.com^$important
 @@||player.gliacloud.com^$important
 @@||dnslog.cn^$important
+@@||ingest.sentry.io^$important

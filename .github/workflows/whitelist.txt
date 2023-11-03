@@ -23,3 +23,4 @@
 @@||ingest.sentry.io^$important
 @@||offseclabs.com^$important
 @@||wechat.com^$important
+@@||findermp.video.qq.com^$important

@@ -24,3 +24,4 @@
 @@||offseclabs.com^$important
 @@||wechat.com^$important
 @@||findermp.video.qq.com^$important
+@@||alipay.com^$important

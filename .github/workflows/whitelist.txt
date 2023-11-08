@@ -25,3 +25,5 @@
 @@||wechat.com^$important
 @@||findermp.video.qq.com^$important
 @@||alipay.com^$important
+@@||dbankcdn.cn^$important
+@@||dbankcdn.com^$important

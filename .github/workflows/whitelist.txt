@@ -1,12 +1,11 @@
-@@||gov.mo^$important
+@@||*.gov.mo^$important
 @@||nhmws.nicehash.com^$important
 @@||randomxmonero.eu.nicehash.com^$important
 @@||miner-plugins.nicehash.com^$important
 @@||nicehash.com^$important
-@@||dns2use.com^$important
+@@||*.dns2use.com^$important
 @@||aaid.umeng.com^$important
 @@||abs.twimg.com^$important
-@@||dns2use.com^$important
 @@||nessus.org^$important
 @@||bats.video.yahoo.com^$important
 @@||amap.com^$important
@@ -24,8 +23,7 @@
 @@||offseclabs.com^$important
 @@||wechat.com^$important
 @@||findermp.video.qq.com^$important
-@@||alipay.com^$important
-@@||dbankcdn.cn^$important
-@@||dbankcdn.com^$important
-@@||dbankcloud.cn^$important
-@@||hicloud.com^$important
+@@||*.alipay.com^$important
+@@||dbankcdn.*^$important
+@@||dbankcloud.*^$important
+@@||*.hicloud.com^$important

@@ -27,3 +27,4 @@
 @@||dbankcdn.*^$important
 @@||dbankcloud.*^$important
 @@||*.hicloud.com^$important
+@@||bilits.hsjf.top^$important

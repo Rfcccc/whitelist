@@ -28,3 +28,4 @@
 @@||dbankcloud.*^$important
 @@||*.hicloud.com^$important
 @@||bilits.hsjf.top^$important
+@@||*.xtracloud.net^$important

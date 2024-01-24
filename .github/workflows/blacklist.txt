@@ -8,10 +8,6 @@
 ||configserver-dre.platform.hicloud.com^
 ||connect-drcn.hispace.hicloud.com^
 ||dnkeeper.hicloud.com^
-||grs.dbankcloud.asia^
-||grs.dbankcloud.cn^
-||grs.dbankcloud.com^
-||grs.dbankcloud.eu^
 ||grs.platform.dbankcloud.ru^
 ||hag-dre.ai.hicloud.com^
 ||healthactivity-dre.things.hicloud.com^

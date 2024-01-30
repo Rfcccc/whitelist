@@ -30,3 +30,4 @@
 @@||bilits.hsjf.top^$important
 @@||*.xtracloud.net^$important
 @@||*.downloadhelper.net^$important
+@@||*.gofile.io^$important

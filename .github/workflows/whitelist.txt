@@ -32,3 +32,4 @@
 @@||*.downloadhelper.net^$important
 @@||*.gofile.io^$important^$important
 @@||*.pcdn-www.pcloud.com^$important
+@@||*.my.pcloud.com^$important

@@ -33,4 +33,3 @@
 @@||*.gofile.io^$important^$important
 @@||*.pcdn-www.pcloud.com^$important
 @@||*.pcdn-my.pcloud.com^$important
-@@

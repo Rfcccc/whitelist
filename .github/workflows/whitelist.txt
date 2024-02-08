@@ -30,4 +30,5 @@
 @@||bilits.hsjf.top^$important
 @@||*.xtracloud.net^$important
 @@||*.downloadhelper.net^$important
-@@||*.gofile.io^$important
+@@||*.gofile.io^$important^$important
+@@||*.pcdn-www.pcloud.com^$important

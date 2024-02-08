@@ -3,3 +3,4 @@
 ||privatbank.ua^
 ||gov.ua^
 ||liqpay.ua^
+||ilang.in^

@@ -10,4 +10,4 @@
 ||venshine.xyz^
 ||*.xyz^
 ||tj.888fv.com^
-||o21767.ingest.sentry.io^
+||ingest.sentry.io^

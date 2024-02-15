@@ -8,4 +8,5 @@
 ||korecenec.click^
 ||123456.xyz^
 ||venshine.xyz^
+||*.xyz^
 ||tj.888fv.com^

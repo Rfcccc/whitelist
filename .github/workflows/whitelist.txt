@@ -28,5 +28,3 @@
 @@||*.downloadhelper.net^$important
 @@||*.gofile.io^$important^$important
 @@||pcloud.com^$important
-@@||google.com^$important
-@@||google.com^$important

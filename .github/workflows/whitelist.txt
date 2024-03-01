@@ -33,3 +33,7 @@
 @@||api.facebook.com^$important
 @@||*.pcdn-my.pcloud.com^$important
 @@||pcdn-my.pcloud.com^$important
+@@||mqtt-mini.facebook.com^$important
+@@||graph-fallback.facebook.com^$important
+@@||web.facebook.com^$important
+@@||b-graph.facebook.com^$important

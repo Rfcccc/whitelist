@@ -31,3 +31,5 @@
 @@||connect.facebook.net^$important
 @@||graph.facebook.com^$important
 @@||api.facebook.com^$important
+@@||*.pcdn-my.pcloud.com^$important
+@@||pcdn-my.pcloud.com^$important

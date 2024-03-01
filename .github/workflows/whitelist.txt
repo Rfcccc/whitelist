@@ -37,3 +37,4 @@
 @@||graph-fallback.facebook.com^$important
 @@||web.facebook.com^$important
 @@||b-graph.facebook.com^$important
+@@||graph.fbpigeon.com^$important

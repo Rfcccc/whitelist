@@ -29,3 +29,5 @@
 @@||*.gofile.io^$important^$important
 @@||pcloud.com^$important
 @@||connect.facebook.net^$important
+@@||graph.facebook.com^$important
+@@||api.facebook.com^$important

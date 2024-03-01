@@ -28,3 +28,4 @@
 @@||*.downloadhelper.net^$important
 @@||*.gofile.io^$important^$important
 @@||pcloud.com^$important
+@@||connect.facebook.net^$important

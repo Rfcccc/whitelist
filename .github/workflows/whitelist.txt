@@ -38,3 +38,5 @@
 @@||web.facebook.com^$important
 @@||b-graph.facebook.com^$important
 @@||graph.fbpigeon.com^$important
+@@||connect.facebook.net^$important
+@@||web-fallback.facebook.com^$important

@@ -41,3 +41,4 @@
 @@||connect.facebook.net^$important
 @@||web-fallback.facebook.com^$important
 @@||web.facebook.com^$important
+@@||dns.weixin.qq.com.cn^$important

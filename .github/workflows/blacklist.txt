@@ -20,4 +20,4 @@
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logbak.hicloud.com^
-
+||dbankcdn.cn^

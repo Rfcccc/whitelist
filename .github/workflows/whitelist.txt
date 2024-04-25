@@ -26,7 +26,7 @@
 @@||bilits.hsjf.top^$important
 @@||*.xtracloud.net^$important
 @@||*.downloadhelper.net^$important
-@@||*.gofile.io^$important^$important
+@@||*.gofile.io^$important
 @@||pcloud.com^$important
 @@||connect.facebook.net^$important
 @@||graph.facebook.com^$important

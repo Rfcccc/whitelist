@@ -48,4 +48,4 @@
 @@||www.google-analytics.com^$important
 @@||o132284.ingest.sentry.io^$important
 @@||www.googletagmanager.com^$important
-@@||*.xx.fbcdn.net^$important
+@@||xx.fbcdn.net^$important

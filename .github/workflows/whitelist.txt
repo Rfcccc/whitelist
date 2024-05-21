@@ -48,9 +48,4 @@
 @@||www.google-analytics.com^$important
 @@||o132284.ingest.sentry.io^$important
 @@||www.googletagmanager.com^$important
-@@||*.dbankcloud.com^$important
-@@||*.dbankcloud.cn^$important
-@@||*.dbankcloud.asia^$important
-@@||*.dbankcloud.ru^$important
-@@||*.dbankcloud.eu^$important
-@@||*.platform.hicloud.com^$important
+@@||*.xx.fbcdn.net^$important

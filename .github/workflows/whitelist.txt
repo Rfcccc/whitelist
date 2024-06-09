@@ -48,7 +48,3 @@
 @@||www.google-analytics.com^$important
 @@||o132284.ingest.sentry.io^$important
 @@||www.googletagmanager.com^$important
-@@||grs.dbankcloud.asia^$important
-@@||grs.dbankcloud.eu^$important
-@@||grs.dbankcloud.com^$important
-@@||@@||grs.dbankcloud.cn^$important

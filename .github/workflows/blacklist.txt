@@ -15,4 +15,4 @@
 ||pixel.facebook.com^
 ||an.facebook.com^
 ||*.data.hicloud.com^
-||*.supl.bd-caict.com^
+||supl.bd-caict.com^

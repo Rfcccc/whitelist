@@ -16,3 +16,14 @@
 ||an.facebook.com^
 ||*.data.hicloud.com^
 ||supl.bd-caict.com^
+||dbankcloud.com^
+||dbankcloud.asia^
+||dbankcloud.eu^
+||dbankcloud.ru^
+||dbankcloud.cn^
+||dbankcloud.com.cn^
+||dbankcdn.com^
+||dbankcdn.asia^
+||dbankcdn.eu^
+||dbankcdn.ru^
+||dbankcdn.cn^

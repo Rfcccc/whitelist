@@ -27,3 +27,4 @@
 ||dbankcdn.eu^
 ||dbankcdn.ru^
 ||dbankcdn.cn^
+||quicktracking-api.macaupass.com^

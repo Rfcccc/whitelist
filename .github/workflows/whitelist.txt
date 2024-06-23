@@ -48,3 +48,4 @@
 @@||www.google-analytics.com^$important
 @@||o132284.ingest.sentry.io^$important
 @@||www.googletagmanager.com^$important
+@@||ot.io.mi.com^$important

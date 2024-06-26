@@ -28,3 +28,5 @@
 ||dbankcdn.ru^
 ||dbankcdn.cn^
 ||quicktracking-api.macaupass.com^
+||qchannel03.cn^
+||50union.com^

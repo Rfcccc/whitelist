@@ -11,7 +11,6 @@
 @@||amap.com^$important
 @@||95516.com^$important
 @@||map.baidu.com^$important
-@@||m.taobao.com^$important
 @@||bats.video.yahoo.com^$important
 @@||news-app.abumedia.yql.yahoo.com^$important
 @@||jpush.cn^$important

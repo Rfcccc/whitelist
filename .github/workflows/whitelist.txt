@@ -1,3 +1,4 @@
+#20240831
 @@||*.gov.mo^$important
 @@||nhmws.nicehash.com^$important
 @@||randomxmonero.eu.nicehash.com^$important

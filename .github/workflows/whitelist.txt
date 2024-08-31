@@ -48,3 +48,8 @@
 @@||www.googletagmanager.com^$important
 @@||ot.io.mi.com^$important
 @@||dlg.io.mi.com^$important
+@@||findermp.video.qq.com^$important
+@@||*.dbank*^$important
+@@||*.hicloud*^$important
+@@||graph.instagram.com^$important
+@@||wxapp.tc.qq.com^$important

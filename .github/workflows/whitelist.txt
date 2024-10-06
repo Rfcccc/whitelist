@@ -55,3 +55,4 @@
 @@||graph.instagram.com^$important
 @@||wxapp.tc.qq.com^$important
 @@||*.nianticlabs.com^$important
+@@||*.hacktricks.xyz^$important

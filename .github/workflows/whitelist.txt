@@ -56,3 +56,6 @@
 @@||wxapp.tc.qq.com^$important
 @@||*.nianticlabs.com^$important
 @@||*.hacktricks.xyz^$important
+@@||*.doubleclick.net^$important
+@@||*.googleapis.com^$important
+
